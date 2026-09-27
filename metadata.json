@@ -1,0 +1,6 @@
+{
+  "name": "Production Study",
+  "description": "Mobile-first Industrial Engineering Production Time Study application for apparel and manufacturing, featuring real-time stopwatches, auto-calculations, signatures, local history, and PDF sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
